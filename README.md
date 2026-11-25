@@ -1,1 +1,1 @@
-# ci-cd-duplicate
+# ci-cd-lab-2
